@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 ipython = "*"
 ipdb = "*"
+grpcio = "*"
+grpcio-tools = "*"
 
 [requires]
 python_version = "3.7"
